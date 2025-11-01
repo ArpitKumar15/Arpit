@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Glow Gearz",
+  "description": "A smart e-commerce platform that provides a personalized shopping experience using Gemini, gamification for user engagement, and a simulated secure payment integration for a transparent and enhanced user experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
